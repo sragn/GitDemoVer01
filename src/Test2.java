@@ -7,6 +7,8 @@ public class Test2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is demo git as test2 file as client");
+		
+		System.out.println("New line adde bcz. of issue raised");
 	}
 
 }
